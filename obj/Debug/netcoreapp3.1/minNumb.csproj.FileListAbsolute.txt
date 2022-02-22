@@ -1,0 +1,13 @@
+C:\Users\nitim\source\repos\minNumb\bin\Debug\netcoreapp3.1\minNumb.exe
+C:\Users\nitim\source\repos\minNumb\bin\Debug\netcoreapp3.1\minNumb.deps.json
+C:\Users\nitim\source\repos\minNumb\bin\Debug\netcoreapp3.1\minNumb.runtimeconfig.json
+C:\Users\nitim\source\repos\minNumb\bin\Debug\netcoreapp3.1\minNumb.runtimeconfig.dev.json
+C:\Users\nitim\source\repos\minNumb\bin\Debug\netcoreapp3.1\minNumb.dll
+C:\Users\nitim\source\repos\minNumb\bin\Debug\netcoreapp3.1\minNumb.pdb
+C:\Users\nitim\source\repos\minNumb\obj\Debug\netcoreapp3.1\minNumb.csprojAssemblyReference.cache
+C:\Users\nitim\source\repos\minNumb\obj\Debug\netcoreapp3.1\minNumb.AssemblyInfoInputs.cache
+C:\Users\nitim\source\repos\minNumb\obj\Debug\netcoreapp3.1\minNumb.AssemblyInfo.cs
+C:\Users\nitim\source\repos\minNumb\obj\Debug\netcoreapp3.1\minNumb.csproj.CoreCompileInputs.cache
+C:\Users\nitim\source\repos\minNumb\obj\Debug\netcoreapp3.1\minNumb.dll
+C:\Users\nitim\source\repos\minNumb\obj\Debug\netcoreapp3.1\minNumb.pdb
+C:\Users\nitim\source\repos\minNumb\obj\Debug\netcoreapp3.1\minNumb.genruntimeconfig.cache
